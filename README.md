@@ -1,6 +1,6 @@
 # Societal Health Simulator  
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17258420-blue)](https://doi.org/10.5281/zenodo.17258420)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17258419-blue)](https://doi.org/10.5281/zenodo.17258419)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
 An **interactive, AI-assisted web tool** that explores a **toy model of societal health**.  
@@ -57,7 +57,7 @@ A `CITATION.cff` file will be added once the first archived release is created (
 AI-Assisted Researcher | Developer of the Societal Health Simulator  
 
 - ORCID: [0009-0006-6043-9295](https://orcid.org/0009-0006-6043-9295)  
-- Email: (shawnkardin (at) gmail (dot) com)  
+- Email: (swright@waveframelabs.org)   
 
 ---
 
