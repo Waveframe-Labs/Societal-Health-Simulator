@@ -47,7 +47,6 @@ This deliberate imperfection demonstrates how AI-assisted work can be logged, va
 ## Citation  
 
 If you reference this simulator in academic or public work, please cite the repository.  
-A `CITATION.cff` file will be added once the first archived release is created (Zenodo).  
 
 ---
 
