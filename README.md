@@ -71,3 +71,9 @@ See `LICENSE` for details.
 
 **Prototype** — live at [wrightsocietalmodel.com](https://wrightsocietalmodel.com).  
 Development is ongoing, with future work focusing on equation fidelity, dataset integration, and reproducibility testing under AWO/CRI.  
+
+---  
+
+<p align="center">
+  <sub>© 2025 Waveframe Labs · Independent Open-Science Research Entity</sub>
+</p>  
