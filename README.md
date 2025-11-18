@@ -74,6 +74,12 @@ Development is ongoing, with future work focusing on equation fidelity, dataset 
 
 ---  
 
+## Reproducibility Notes
+
+This simulator follows Waveframe Labs’ principles of transparent scientific modeling.  
+While not a full AWO-compliant pipeline, all assumptions are declared explicitly, the model specification is versioned, and future iterations will incorporate formal validation and CRI-based testing.  
+
+---  
 <p align="center">
   <sub>© 2025 Waveframe Labs · Independent Open-Science Research Entity</sub>
 </p>  
