@@ -1,6 +1,9 @@
 # Societal Health Simulator  
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17258419-blue)](https://doi.org/10.5281/zenodo.17258419)
+[![Waveframe Labs](https://img.shields.io/badge/WAVEFRAME%20LABS-Institutional%20Repository-FF6A00?style=flat)](https://waveframelabs.org)
+[![Governed Repository](https://img.shields.io/badge/Governance-ARI%20Compliant-8A2BE2?style=flat)]  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17258419-blue)](https://doi.org/10.5281/zenodo.17258419)  
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6043-9295)  
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
 An **interactive, AI-assisted web tool** that explores a **toy model of societal health**.  
