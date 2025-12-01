@@ -1,3 +1,4 @@
+![SOCIETAL HEALTH SIMULATOR](figures/SHS_banner.png)  
 # Societal Health Simulator  
 
 [![Waveframe Labs](https://img.shields.io/badge/WAVEFRAME%20LABS-Institutional%20Repository-FF6A00?style=flat)](https://waveframelabs.org)
